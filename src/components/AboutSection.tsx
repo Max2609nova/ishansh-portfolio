@@ -3,7 +3,7 @@ import ContactButton from './ContactButton';
 import AnimatedText from './AnimatedText';
 
 const ABOUT_TEXT =
-  "I'm Ishansh Bhardwaj, a final-year Artificial Intelligence & Machine Learning student with hands-on experience building production-grade AI systems, LangChain and LangGraph RAG pipelines, FastAPI microservices, and React-based applications. During my internship at Ironbook.AI, I developed customer data platforms, machine learning segmentation systems, and AI-powered research assistants. I'm passionate about Generative AI, Data Engineering, Machine Learning, and building innovative products that solve real-world problems.";
+  "I'm Mohit Kumar, a final-year Artificial Intelligence & Machine Learning student with hands-on experience building production-grade AI systems, LangChain and LangGraph RAG pipelines, FastAPI microservices, and React-based applications. During my internship at Ironbook.AI, I developed customer data platforms, machine learning segmentation systems, and AI-powered research assistants. I'm passionate about Generative AI, Data Engineering, Machine Learning, and building innovative products that solve real-world problems.";
 
 const AboutSection = () => {
   return (
