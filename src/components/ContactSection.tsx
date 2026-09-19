@@ -12,27 +12,27 @@ const CONTACT_METHODS: ContactMethod[] = [
   {
     icon: Mail,
     label: 'Email',
-    value: 'ishansh.bhardwaj10113@gmail.com',
-    href: 'mailto:ishansh.bhardwaj10113@gmail.com',
+    value: 'mk735136@gmail.com',
+    href: 'mailto: mk735136@gmail.com',
   },
   {
     icon: MessageCircle,
     label: 'WhatsApp',
-    value: '+91 9891911199',
+    value: '+91 9540808292',
     // wa.me requires digits only — no +, no spaces, no hyphens
-    href: 'https://wa.me/919891911199',
+    href: 'https://wa.me/9540808292',
   },
   {
     icon: Linkedin,
     label: 'LinkedIn',
-    value: 'in/Ishansh Bhardwaj',
-    href: 'https://www.linkedin.com/in/ishansh-bhardwaj-24702116b/',
+    value: 'in/Mohit kumar',
+    href: 'linkedin',
   },
   {
     icon: Github,
     label: 'GitHub',
-    value: '@Ishansh10113',
-    href: 'https://github.com/Ishansh10113',
+    value: '@mohut189',
+    href: 'github',
   },
 ];
 
@@ -117,13 +117,13 @@ const ContactSection = () => {
             className="font-light uppercase tracking-widest text-[#D7E2EA]/50"
             style={{ fontSize: 'clamp(0.7rem, 1.1vw, 0.9rem)' }}
           >
-            © 2026 Ishansh Bhardwaj
+            © 2026 Mohit kumar 
           </span>
           <span
             className="font-light uppercase tracking-widest text-[#D7E2EA]/50"
             style={{ fontSize: 'clamp(0.7rem, 1.1vw, 0.9rem)' }}
           >
-            Designed & built in Gurugram
+            Designed & built in UK
           </span>
         </div>
       </FadeIn>
